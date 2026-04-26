@@ -1,4 +1,4 @@
-![Top Languages](https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-cards-output/default/2-most-commit-language.svg)
+![Top Languages](https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/default/2-most-commit-language.svg)
 <!--
 **glzzjhn-byte/glzzjhn-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
