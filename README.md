@@ -1,8 +1,8 @@
 <div align="center">
 
-# System.out.println("Hello");
+# System.out.println("Hello!");
 
-I'm a Computer Engineering student focused on building systems with mechanical precision—from software architecture down to the bare metal.
+I'm a 2nd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
 <img src="https://i.pinimg.com/originals/37/a3/22/37a322b48e9b7e1c5c9215faf0ebdcd8.gif" width="250" alt="Milim Nava"/>
 <br>
@@ -11,12 +11,12 @@ I'm a Computer Engineering student focused on building systems with mechanical p
 
 ---
 
-### Current Focus
-- **RONAOPOS:** Developing and scaling a Java-based Point of Sale system.
-- **Hardware & Automation:** Designing custom PCBs, working with 12V relays, and building Arduino-controlled logic systems.
-- **Security:** Implementing AES-256 encryption and secure database structures.
+### 🔭 Current Focus
+- **NexusPOS:** Developing and scaling a Java-based Point-of-Sale (POS) system.
+- **Hardware & Automation:** Designing circuits, working with low-level components like logic gates, and building Arduino-controlled systems.
+- **Security:** Implementing AES-256 encryption, developing secure client-server architectures, and designing protected database structures.
 
-### Systems & Application Programming
+### 💻 Systems & Application Programming
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
@@ -25,7 +25,7 @@ I'm a Computer Engineering student focused on building systems with mechanical p
 
 <br>
 
-### Web Development & Scripting
+### 🌐 Web Development & Scripting
 <div align="left">
   <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=Roblox&logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
@@ -37,7 +37,7 @@ I'm a Computer Engineering student focused on building systems with mechanical p
 
 <br>
 
-### GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
 </div>
