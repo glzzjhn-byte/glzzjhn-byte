@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student focused on building systems with mechanical precision—from software architecture down to the bare metal.
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/17837232009962475116_0" width="250" alt="Milim Nava"/>
+<img src="https://i.pinimg.com/originals/37/a3/22/37a322b48e9b7e1c5c9215faf0ebdcd8.gif" width="250" alt="Milim Nava"/>
 
 </div>
 
