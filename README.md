@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glzzjhn-byte&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **glzzjhn-byte/glzzjhn-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
