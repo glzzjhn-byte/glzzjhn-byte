@@ -1,10 +1,4 @@
-### 💻 Technical Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glzzjhn-byte&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **glzzjhn-byte/glzzjhn-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
