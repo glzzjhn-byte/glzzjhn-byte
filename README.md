@@ -1,6 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzzjhn-byte&layout=compact&theme=vision-glow" alt="Top Languages" />
-</a>
+![Top Languages](./profile-summary-cards-output/default/2-most-commit-language.svg)
 <!--
 **glzzjhn-byte/glzzjhn-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
