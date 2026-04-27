@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="http://nexus-status.42web.io/status.php" alt="System Status" />
+  <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
 </div>
 
 <div align="center">
