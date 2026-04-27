@@ -17,6 +17,15 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 ---
 
+### 📬 Let's Connect
+<div align="left">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
 ### 🔭 Current Focus
 - **NexusPOS:** Developing and scaling a Java-based Point-of-Sale (POS) system.
 - **Hardware & Automation:** Designing circuits, working with low-level components like logic gates, and building Arduino-controlled systems.
@@ -39,6 +48,15 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<br>
+
+### 🗄️ Databases & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
 <br>
