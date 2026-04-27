@@ -4,6 +4,12 @@
 
 I'm a 2nd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
+<br>
+<a href="https://glzzjhn-byte.github.io/Glzz-Home/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00599C?style=for-the-badge" alt="Portfolio" />
+</a>
+<br><br>
+
 <img src="https://i.pinimg.com/originals/37/a3/22/37a322b48e9b7e1c5c9215faf0ebdcd8.gif" width="250" alt="Milim Nava"/>
 <br>
 <i>"Wahahaha! I am Demon Lord Milim Nava, the Destroyer!"</i>
