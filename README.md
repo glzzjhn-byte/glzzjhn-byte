@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="http://nexus-status.42web.io/status.php" alt="System Status" />
+</div>
+
 <div align="center">
 
 # System.out.println("Hello!");
@@ -6,7 +10,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 <br>
 <a href="https://glzzjhn-byte.github.io/Glzz-Home/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00599C?style=for-the-badge" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00599C?style=for-the-badge" alt="Portfolio" />
 </a>
 <br><br>
 
@@ -33,44 +37,44 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 ### 💻 Systems & Application Programming
 <div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
 </div>
 
 <br>
 
 ### 🌐 Web Development & Scripting
 <div align="left">
-  <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=Roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=Roblox&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
 <br>
 
 ### 🗄️ Databases & Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
 <br>
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/glzzjhn-byte">
-    <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
-  </a>
-  <a href="https://github.com/glzzjhn-byte">
-    <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
-  </a>
+  <a href="https://github.com/glzzjhn-byte">
+    <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
+  </a>
+  <a href="https://github.com/glzzjhn-byte">
+    <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
+  </a>
 </div>
