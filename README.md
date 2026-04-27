@@ -1,5 +1,7 @@
 <div align="left">
   <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
+  <br>
+  <img src="https://ciel-status-api.vercel.app/api/time?loc=ph" alt="PH Standard Time" />
 </div>
 
 <div align="center">
