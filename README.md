@@ -1,7 +1,7 @@
 <div align="left">
-  <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
-  <br>
-  <img src="https://ciel-status-api.vercel.app/api/time?loc=ph" alt="PH Standard Time" />
+  <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
+  <br>
+  <img src="https://ciel-status-api.vercel.app/api/time?loc=ph" alt="PH Standard Time" />
 </div>
 
 <div align="center">
@@ -19,6 +19,13 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <img src="https://i.pinimg.com/originals/37/a3/22/37a322b48e9b7e1c5c9215faf0ebdcd8.gif" width="250" alt="Milim Nava"/>
 <br>
 <i>"Wahahaha! I am Demon Lord Milim Nava, the Destroyer!"</i>
+
+<br><br>
+
+<img src="https://i.ytimg.com/vi/-nD2GklKrFA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAY3JdNw8J9snxbH3RSn_RXUx34CQ" width="250" alt="Kiyotaka Ayanokoji"/>
+<br>
+<i>"All people are nothing but to..."</i>
+
 </div>
 
 ---
