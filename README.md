@@ -87,3 +87,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
     <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
   </a>
 </div>
+<div align = "center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
