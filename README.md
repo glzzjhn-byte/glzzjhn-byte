@@ -22,7 +22,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 <br><br>
 
-<img src="https://i.ytimg.com/vi/-nD2GklKrFA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAY3JdNw8J9snxbH3RSn_RXUx34CQ" width="250" alt="Kiyotaka Ayanokoji"/>
+<img src="https://i.ytimg.com/vi/-nD2GklKrFA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAY3JdNw8J9snxbH3RSn_RXUx34CQ" width="300" alt="Kiyotaka Ayanokoji"/>
 <br>
 <i>"All people are nothing but to..."</i>
 
