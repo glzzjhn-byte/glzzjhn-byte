@@ -89,8 +89,8 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 </div>
 <div align = "center">
 <div align="center">
-  <a href="https://wakatime.com/@glzzjhn">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@glzzjhn&layout=compact&theme=tokyonight&custom_title=System_Telemetry_Log&langs_count=5" alt="WakaTime Metrics" />
+  <a href="https://wakatime.com/glzzjhn">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glzzjhn&layout=compact&theme=tokyonight&custom_title=System_Telemetry_Log&langs_count=5" alt="WakaTime Metrics" />
   </a>
 </div>
 </div>
