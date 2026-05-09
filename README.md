@@ -77,28 +77,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 ---
 
 <div align="center">
-<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="clipCote"><rect x="16" y="60" width="100" height="140" rx="6"/></clipPath>
-    <clipPath id="clipTensura"><rect x="128" y="60" width="100" height="140" rx="6"/></clipPath>
-  </defs>
-  <rect width="800" height="230" rx="10" fill="#141519"/>
-  <rect width="800" height="4" rx="2" fill="#F47521"/>
-  <rect width="800" height="46" y="4" fill="#141519"/>
-  <!-- Crunchyroll logo text -->
-  <text x="20" y="33" font-family="Arial,sans-serif" font-weight="800" font-size="15" fill="#F47521" letter-spacing="-0.3">CRUNCHYROLL</text>
-  <text x="145" y="33" font-family="Arial,sans-serif" font-weight="400" font-size="12" fill="#aaaaaa">— My Watchlist</text>
-  <text x="20" y="55" font-family="Arial,sans-serif" font-weight="700" font-size="11" fill="#cccccc" letter-spacing="1">🎌 TOP ANIME I WATCH</text>
-
-  ![Anime Status](https://ciel-status-api.vercel.app/anime-status)
-  <!-- Footer bar -->
-  <rect y="208" width="800" height="22" rx="0" fill="#0e0f13"/>
-  <rect y="206" width="800" height="1" fill="#2a2a35"/>
-  <text x="20" y="223" font-family="Arial,sans-serif" font-size="9" fill="#888888">🎌 Watching on Crunchyroll</text>
-  <!-- CR badge -->
-  <rect x="700" y="211" width="82" height="15" rx="7" fill="#F47521"/>
-  <text x="741" y="222" font-family="Arial,sans-serif" font-weight="800" font-size="8" fill="#ffffff" text-anchor="middle">CRUNCHYROLL</text>
-</svg>
+ ![Anime Status](https://ciel-status-api.vercel.app/anime-status)
 </div>
 
 <br>
