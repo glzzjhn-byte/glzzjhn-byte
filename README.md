@@ -89,7 +89,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 </div>
 <div align = "center">
   <br>
-  ##📑Waka-Time📑 
+###📑Waka-Time📑 
 <div align="center">
   <a href="https://wakatime.com/@glzzjhn">
     <img src="https://ciel-status-api.vercel.app/api/metrics" alt="System Telemetry Log" />
