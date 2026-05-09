@@ -73,7 +73,6 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 </div>
 
 <br>
-### 🎌 Media Feed
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/Crunchyroll-Watchlist-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
