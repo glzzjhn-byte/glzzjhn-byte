@@ -40,7 +40,12 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <br>
 
 ### 🔭 Current Focus
-- **SCHOOL:** Locked in: finishing projects and prepping for finals.
+- **SCHOOL:** Locked in: finishing projects and prepping for finals.📒📓
+  <br>
+  <div align="center">
+  <img src="https://i.pinimg.com/originals/d4/d4/45/d4d4455a21d671a0cf0d58f0a2e2fe1a.gif" width="400" alt="Studying gif" />
+  </div>
+  <br>
 - **UNTITLED ANIME BASED GAME** Big project in the works! ⚒️ Working on my first Roblox anime game inspired by Tensura. Stay tuned for the title!
   <br>
   <div align="center">
