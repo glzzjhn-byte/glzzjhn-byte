@@ -87,9 +87,9 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
     <img src="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
   </a>
 </div>
+<br>
+###📑Waka-Time📑
 <div align = "center">
-  <br>
-###📑Waka-Time📑 
 <div align="center">
   <a href="https://wakatime.com/@glzzjhn">
     <img src="https://ciel-status-api.vercel.app/api/metrics" alt="System Telemetry Log" />
