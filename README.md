@@ -77,7 +77,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 ---
 
 <div align="center">
- <img src = "https://ciel-status-api.vercel.app/anime-status" alt = "My Anime List"/>
+  <img src="https://ciel-status-api.vercel.app/api/anime-status" alt="My Anime List" width="800" />
 </div>
 
 <br>
