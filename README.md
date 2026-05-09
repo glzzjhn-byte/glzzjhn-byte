@@ -93,7 +93,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <g>
   <rect x="16" y="60" width="100" height="140" rx="6" fill="#0e2744"/>
   <image 
-    href="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/CoteS4.webp"
+    href="CoteS4.webp"
     x="16" y="60" width="100" height="140" 
     preserveAspectRatio="xMidYMid slice" 
     clip-path="url(#clipCote)"/>
@@ -112,7 +112,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <g>
   <rect x="128" y="60" width="100" height="140" rx="6" fill="#0a2015"/>
   <image 
-    href="https://raw.githubusercontent.com/glzzjhn-byte/glzzjhn-byte/main/TensuraS4.webp"
+    href="TensuraS4.webp"
     x="128" y="60" width="100" height="140" 
     preserveAspectRatio="xMidYMid slice" 
     clip-path="url(#clipTensura)"/>
