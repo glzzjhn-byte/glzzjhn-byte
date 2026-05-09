@@ -93,7 +93,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <!-- ============ CARD 1: Classroom of the Elite ============ -->
   <g>
     <rect x="16" y="60" width="100" height="140" rx="6" fill="#0e2744"/>
-    <image src="https://i.postimg.cc/z3N3Dv05/Cote-S4.webp" 
+    <image src="CoteS4.webp" 
        x="16" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipCote)"/>
     <rect x="16" y="140" width="100" height="60" rx="0" fill="#0a1c36" opacity="0.85"/>
     <text x="66" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Classroom of the</text>
@@ -108,7 +108,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <!-- ============ CARD 2: Tensei Slime ============ -->
   <g>
     <rect x="128" y="60" width="100" height="140" rx="6" fill="#0a2015"/>
-    <image src="https://i.postimg.cc/K4b4cjJR/Tensura-S4.webp" 
+    <image src="TensuraS4.webp" 
            x="128" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipTensura)"/>
     <rect x="128" y="140" width="100" height="60" rx="0" fill="#051a0d" opacity="0.85"/>
     <text x="178" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Tensei Shitara</text>
