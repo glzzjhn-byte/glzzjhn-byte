@@ -73,17 +73,15 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 </div>
 
 <br>
-
+### 🎌 Media Feed
 ---
-
 <div align="center">
+  <img src="https://img.shields.io/badge/Crunchyroll-Watchlist-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <br><br>
   <img src="https://ciel-status-api.vercel.app/api/anime-status" alt="My Anime List" width="800" />
+  <br>
+  <p><i>"Clearly a man of culture."</i></p>
 </div>
-
-<br>
-
-> 💡 *Milim Nava (That Time I Got Reincarnated as a Slime) and Ayanokoji (Classroom of the Elite) spotted above — clearly a man of culture.*
-
 ---
 
 ### 📊 GitHub Stats
