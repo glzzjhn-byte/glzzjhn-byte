@@ -32,9 +32,9 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 ### 📬 Let's Connect
 <div align="left">
-<a href="mailto:glzzjhn@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="mailto:glzzjhn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
@@ -79,76 +79,46 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <div align="center">
 <svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <clipPath id="card1"><rect x="16" y="60" width="100" height="140" rx="6"/></clipPath>
-    <clipPath id="card2"><rect x="128" y="60" width="100" height="140" rx="6"/></clipPath>
+    <clipPath id="clipCote"><rect x="16" y="60" width="100" height="140" rx="6"/></clipPath>
+    <clipPath id="clipTensura"><rect x="128" y="60" width="100" height="140" rx="6"/></clipPath>
   </defs>
-
-  <!-- Background -->
   <rect width="800" height="230" rx="10" fill="#141519"/>
-
-  <!-- Orange top accent bar -->
   <rect width="800" height="4" rx="2" fill="#F47521"/>
-
-  <!-- Header row -->
   <rect width="800" height="46" y="4" fill="#141519"/>
   <!-- Crunchyroll logo text -->
   <text x="20" y="33" font-family="Arial,sans-serif" font-weight="800" font-size="15" fill="#F47521" letter-spacing="-0.3">CRUNCHYROLL</text>
   <text x="145" y="33" font-family="Arial,sans-serif" font-weight="400" font-size="12" fill="#aaaaaa">— My Watchlist</text>
-
-  <!-- Section label -->
-  <text x="20" y="55" font-family="Arial,sans-serif" font-weight="700" font-size="11" fill="#cccccc" letter-spacing="1">🎌  TOP ANIME I WATCH</text>
+  <text x="20" y="55" font-family="Arial,sans-serif" font-weight="700" font-size="11" fill="#cccccc" letter-spacing="1">🎌 TOP ANIME I WATCH</text>
 
   <!-- ============ CARD 1: Classroom of the Elite ============ -->
-<g>
-  <defs>
-    <clipPath id="clipCote">
-      <rect x="16" y="60" width="100" height="140" rx="6" />
-    </clipPath>
-  </defs>
-  <rect x="16" y="60" width="100" height="140" rx="6" fill="#0e2744"/>
-  
-  <!-- Replaced Letter A with Image -->
-  <image href="https://redd.it" 
-         x="16" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipCote)"/>
+  <g>
+    <rect x="16" y="60" width="100" height="140" rx="6" fill="#0e2744"/>
+    <image href="https://external-preview.redd.it/classroom-of-the-elite-season-4-announced-v0-t5_OT-W9qOHInMMm0F-fKQ9parXu6ySY8ycq-3lIOSA.jpg?auto=webp&s=84971d38651068adc625b3c6683968c038cffff0" 
+           x="16" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipCote)"/>
+    <rect x="16" y="140" width="100" height="60" rx="0" fill="#0a1c36" opacity="0.85"/>
+    <text x="66" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Classroom of the</text>
+    <text x="66" y="169" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Elite</text>
+    <rect x="22" y="175" width="47" height="12" rx="3" fill="#2ecc71"/>
+    <text x="45" y="184" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">COMPLETED</text>
+    <text x="75" y="184" font-family="Arial,sans-serif" font-size="8" fill="#F47521">★★★★★</text>
+    <rect x="16" y="60" width="28" height="14" rx="3" fill="#F47521"/>
+    <text x="30" y="70" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">#1</text>
+  </g>
 
-  <!-- Gradient overlay bottom -->
-  <rect x="16" y="140" width="100" height="60" rx="0" fill="#0a1c36" opacity="0.85"/>
-  <!-- Title -->
-  <text x="66" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Classroom of the</text>
-  <text x="66" y="169" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Elite</text>
-  <!-- Badge -->
-  <rect x="22" y="175" width="47" height="12" rx="3" fill="#2ecc71"/>
-  <text x="45" y="184" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">COMPLETED</text>
-  <!-- Stars -->
-  <text x="75" y="184" font-family="Arial,sans-serif" font-size="8" fill="#F47521">★★★★★</text>
-  <!-- Corner badge -->
-  <rect x="16" y="60" width="28" height="14" rx="3" fill="#F47521"/>
-  <text x="30" y="70" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">#1</text>
-</g>
-
-<!-- ============ CARD 2: Tensei Slime ============ -->
-<g>
-  <defs>
-    <clipPath id="clipTensura">
-      <rect x="128" y="60" width="100" height="140" rx="6" />
-    </clipPath>
-  </defs>
-  <rect x="128" y="60" width="100" height="140" rx="6" fill="#0a2015"/>
-  
-  <!-- Replaced Letter S with Image -->
-  <image href="https://nocookie.net" 
-         x="128" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipTensura)"/>
-
-  <rect x="128" y="140" width="100" height="60" rx="0" fill="#051a0d" opacity="0.85"/>
-  <text x="178" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Tensei Shitara</text>
-  <text x="178" y="169" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Slime Datta Ken</text>
-  <rect x="134" y="175" width="47" height="12" rx="3" fill="#2ecc71"/>
-  <text x="157" y="184" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">COMPLETED</text>
-  <text x="187" y="184" font-family="Arial,sans-serif" font-size="8" fill="#F47521">★★★★★</text>
-  <rect x="128" y="60" width="28" height="14" rx="3" fill="#F47521"/>
-  <text x="142" y="70" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">#2</text>
-</g>
-
+  <!-- ============ CARD 2: Tensei Slime ============ -->
+  <g>
+    <rect x="128" y="60" width="100" height="140" rx="6" fill="#0a2015"/>
+    <image href="https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7c/Season_4_Key_Visual_1.jpg/revision/latest?cb=20260303002029" 
+           x="128" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipTensura)"/>
+    <rect x="128" y="140" width="100" height="60" rx="0" fill="#051a0d" opacity="0.85"/>
+    <text x="178" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Tensei Shitara</text>
+    <text x="178" y="169" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Slime Datta Ken</text>
+    <rect x="134" y="175" width="47" height="12" rx="3" fill="#2ecc71"/>
+    <text x="157" y="184" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">COMPLETED</text>
+    <text x="187" y="184" font-family="Arial,sans-serif" font-size="8" fill="#F47521">★★★★★</text>
+    <rect x="128" y="60" width="28" height="14" rx="3" fill="#F47521"/>
+    <text x="142" y="70" font-family="Arial,sans-serif" font-weight="700" font-size="7.5" fill="#ffffff" text-anchor="middle">#2</text>
+  </g>
 
   <!-- Footer bar -->
   <rect y="208" width="800" height="22" rx="0" fill="#0e0f13"/>
