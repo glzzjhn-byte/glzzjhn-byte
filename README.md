@@ -93,7 +93,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <!-- ============ CARD 1: Classroom of the Elite ============ -->
   <g>
     <rect x="16" y="60" width="100" height="140" rx="6" fill="#0e2744"/>
-    <image href="https://external-preview.redd.it/classroom-of-the-elite-season-4-announced-v0-t5_OT-W9qOHInMMm0F-fKQ9parXu6ySY8ycq-3lIOSA.jpg?auto=webp&s=84971d38651068adc625b3c6683968c038cffff0" 
+    <image href="https://postimg.cc/z3N3Dv05][img]https://i.postimg.cc/z3N3Dv05/Cote-S4.webp" 
            x="16" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipCote)"/>
     <rect x="16" y="140" width="100" height="60" rx="0" fill="#0a1c36" opacity="0.85"/>
     <text x="66" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Classroom of the</text>
@@ -108,7 +108,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <!-- ============ CARD 2: Tensei Slime ============ -->
   <g>
     <rect x="128" y="60" width="100" height="140" rx="6" fill="#0a2015"/>
-    <image href="https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7c/Season_4_Key_Visual_1.jpg/revision/latest?cb=20260303002029" 
+    <image href="https://postimg.cc/K4b4cjJR][img]https://i.postimg.cc/K4b4cjJR/Tensura-S4.webp" 
            x="128" y="60" width="100" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#clipTensura)"/>
     <rect x="128" y="140" width="100" height="60" rx="0" fill="#051a0d" opacity="0.85"/>
     <text x="178" y="158" font-family="Arial,sans-serif" font-weight="700" font-size="8.5" fill="#ffffff" text-anchor="middle">Tensei Shitara</text>
