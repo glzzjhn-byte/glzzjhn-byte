@@ -40,9 +40,16 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <br>
 
 ### 🔭 Current Focus
-- **NexusPOS:** Developing and scaling a Java-based Point-of-Sale (POS) system.
-- **Hardware & Automation:** Designing circuits, working with low-level components like logic gates, and building Arduino-controlled systems.
-- **Security:** Implementing AES-256 encryption, developing secure client-server architectures, and designing protected database structures.
+- **SCHOOL:** Locked in: finishing projects and prepping for finals.
+- **UNTITLED ANIME BASED GAME** Big project in the works! ⚒️ Working on my first Roblox anime game inspired by Tensura. Stay tuned for the title!
+  <br>
+  <div align="center">
+  <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
+  <br>
+  <i>"Early look at the scope of my Tensura-inspired game..."</i>
+   </div>
+  <br>
+- **Security:** Refining my Roblox anti-cheat plugins (Free & Pro).
 
 ### 💻 Systems & Application Programming
 <div align="left">
