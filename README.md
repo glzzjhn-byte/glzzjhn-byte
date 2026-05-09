@@ -73,7 +73,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 </div>
 
 <br>
----
+
 <div align="center">
   <img src="https://img.shields.io/badge/Crunchyroll-Watchlist-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <br><br>
@@ -81,7 +81,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
   <br>
   <p><i>"Clearly a man of culture."</i></p>
 </div>
----
+
 
 ### 📊 GitHub Stats
 <div align="center">
