@@ -77,7 +77,7 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 <div align="center">
   <img src="https://img.shields.io/badge/Crunchyroll-Watchlist-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <br><br>
-  <img src="https://ciel-status-api.vercel.app/api/anime-statusVV" alt="My Anime List" width="800" />
+  <img src="https://ciel-status-api.vercel.app/api/anime-status" alt="My Anime List" width="800" />
   <br>
   <p><i>"Clearly a man of culture."</i></p>
 </div>
