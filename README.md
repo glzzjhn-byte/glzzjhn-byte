@@ -2,7 +2,7 @@
   <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
   <br>
   <img src="https://ciel-status-api.vercel.app/api/time?loc=sg" alt="SG Standard Time" />
-</div>
+  </div>
 
 <div align="center">
 
