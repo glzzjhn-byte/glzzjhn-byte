@@ -88,6 +88,16 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
 
 <br>
 
+### 🧠 LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.com/u/g5MR00Cdm3/">
+    <img src="https://leetcard.jacoblin.cool/g5MR00Cdm3?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Crunchyroll-Watchlist-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <br><br>
