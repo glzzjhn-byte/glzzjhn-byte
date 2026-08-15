@@ -1,14 +1,12 @@
 <div align="left">
   <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
   <br>
-  <img src="https://ciel-status-api.vercel.app/api/time?loc=sg" alt="SG Standard Time" />
+  <img src="https://ciel-status-api.vercel.app/api/time?loc=ph" alt="SG Standard Time" />
   </div>
 
-<div align="center">
+# System.out.println("Hello, I'm John Gabriel!");
 
-# System.out.println("Hello!");
-
-I'm a 2nd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
+I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
 <br>
 <a href="https://glzzjhn-byte.github.io/Glzz-Home/">
@@ -130,3 +128,16 @@ I'm a 2nd-year **Computer Engineering** student passionate about building system
     <img src="https://ciel-status-api.vercel.app/api/metrics" alt="System Telemetry Log" />
   </a>
 </div>
+
+<div align="center">
+
+<sub>
+  Developed and maintained by <b>John Gabriel Ronao</b> (<code>@glzzjhn-byte</code>) • 
+  <a href="https://glzzjhn-byte.github.io/Glzz-Home/">Portfolio</a> • 
+  <a href="mailto:glzzjhn@gmail.com">Contact</a>
+</sub>
+
+</div>
+
+<meta name="author" content="John Gabriel Ronao" />
+<meta name="creator" content="John Gabriel Ronao (@glzzjhn-byte)" />
