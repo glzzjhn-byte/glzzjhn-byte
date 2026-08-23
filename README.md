@@ -90,8 +90,8 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 - 🧩 **Roblox Plugins & Security:** Refining my custom anti-cheat plugins (Free & Pro tiers) and currently building **UIBuilder**, a new plugin designed to streamline UI development in Roblox Studio.
   <br><br>
   <div align="center">
-    <img src="https://img.shields.io/badge/Total_Installs-500%2B-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Installs" />
-    <img src="https://img.shields.io/badge/Rating-4.8%20%2F%205.0-brightgreen?style=for-the-badge" alt="Rating" />
+    <img src="https://img.shields.io/badge/Total_Installs-69%2B-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Installs" />
+    <img src="https://img.shields.io/badge/Rating-Unranked-lightgrey?style=for-the-badge" alt="Rating" />
     <img src="https://img.shields.io/badge/Status-Active_Maintenance-success?style=for-the-badge" alt="Status" />
     <br><br>
     <img src="https://i.postimg.cc/N09JhncD/Screenshot-2026-08-23-185005.png" width="700" style="border-radius: 8px;" alt="Roblox plugin Analytics" />
