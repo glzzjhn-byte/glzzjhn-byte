@@ -48,14 +48,20 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
   - *Core Features:* Native Git integration (commit, pull, add, share to GitHub), a fully functioning server-client Marketplace, and all standard IDE essentials. 
   - *Smart Integrations:* Powered by **Clangd** for auto-suggestions and **Ollama AI** for fully local, privacy-first AI auto-completion and chat.
   - *Collaboration & Sync:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation sync that pushes C++/Python processes directly to my GitHub repo for trackable learning.
+  <br>
+  <div align="center">
+  <img src="https://i.postimg.cc/cHp1022p/Screenshot-2026-08-23-172728.png" width="600" alt="ForgeIDE" />
+  <br>
 
 - ⚔️ **Game Development:** 
   - **Untitled Anime Game:** Working on my first major Roblox game inspired by *Tensura*. 
-  - **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
+ 
   <br>
   <div align="center">
   <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
   <br>
+  - **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
+    <br>
   <i>"Early look at the scope of my Tensura-inspired game..."</i>
    </div>
   <br>
