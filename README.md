@@ -6,7 +6,24 @@
 
 # System.out.println("Hello, I'm John Gabriel!");
 
-I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
+Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
+
+### 📊 Skill Proficiency
+*Honesty is the best policy—here is where my logic thrives and where I'm still grinding to improve.*
+
+#### 🚀 Core Strengths (The Heavy Lifting)
+| Focus Area | Technology | Proficiency |
+| :--- | :--- | :--- |
+| **Software Architecture** | ☕ Java | `█████████░` |
+| **Game Development** | 🎮 Roblox Studio / Luau | `█████████░` |
+| **Hardware / Automation** | 🔌 Arduino & Circuits | `████████░░` |
+| **Backend Web** | 🐘 PHP | `████████░░` |
+
+#### 🌱 Work in Progress (The "Honest" Section)
+| Focus Area | Technology | Proficiency |
+| :--- | :--- | :--- |
+| **Frontend UI** | 🎨 CSS / Design | `███░░░░░░░` |
+| **Client-side Logic** | ⚡ JavaScript | `████░░░░░░` |
 
 <br>
 <a href="https://glzzjhn-byte.github.io/Glzz-Home/">
