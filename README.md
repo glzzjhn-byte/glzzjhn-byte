@@ -102,12 +102,15 @@ Developing custom tools and frameworks distributed via Maven:
 </div>
 
 <br>
-
 ### 🗄️ Databases & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/XML-00609C?style=flat&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/POM_(Maven)-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="POM" />
 </div>
 
 <br>
