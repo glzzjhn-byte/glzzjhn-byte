@@ -9,21 +9,44 @@
 Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
 ### 📊 Skill Proficiency
-*Honesty is the best policy—here is where my logic thrives and where I'm still grinding to improve.*
 
-#### 🚀 Core Strengths (The Heavy Lifting)
-| Focus Area | Technology | Proficiency |
-| :--- | :--- | :--- |
-| **Software Architecture** | ☕ Java | `█████████░` |
-| **Game Development** | 🎮 Roblox Studio / Luau | `█████████░` |
-| **Hardware / Automation** | 🔌 Arduino & Circuits | `████████░░` |
-| **Backend Web** | 🐘 PHP | `████████░░` |
+#### 🚀 Core Strengths
+<table>
+  <tr>
+    <td width="200"><b>Java Development</b></td>
+    <td width="300"><progress value="90" max="100"></progress></td>
+    <td><code>Advanced</code></td>
+  </tr>
+  <tr>
+    <td><b>Roblox / Luau</b></td>
+    <td><progress value="85" max="100"></progress></td>
+    <td><code>Advanced</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend (PHP)</b></td>
+    <td><progress value="80" max="100"></progress></td>
+    <td><code>Intermediate+</code></td>
+  </tr>
+  <tr>
+    <td><b>Circuits & Arduino</b></td>
+    <td><progress value="80" max="100"></progress></td>
+    <td><code>Intermediate+</code></td>
+  </tr>
+</table>
 
-#### 🌱 Work in Progress (The "Honest" Section)
-| Focus Area | Technology | Proficiency |
-| :--- | :--- | :--- |
-| **Frontend UI** | 🎨 CSS / Design | `███░░░░░░░` |
-| **Client-side Logic** | ⚡ JavaScript | `████░░░░░░` |
+#### 🌱 Work in Progress(Weak Side)
+<table>
+  <tr>
+    <td width="200"><b>JavaScript (Client)</b></td>
+    <td width="300"><progress value="45" max="100"></progress></td>
+    <td><code>Learning</code></td>
+  </tr>
+  <tr>
+    <td><b>Website UI / Design</b></td>
+    <td><progress value="35" max="100"></progress></td>
+    <td><code>Learning</code></td>
+  </tr>
+</table>
 
 <br>
 <a href="https://glzzjhn-byte.github.io/Glzz-Home/">
