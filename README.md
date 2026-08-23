@@ -11,42 +11,20 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 ### 📊 Skill Proficiency
 
 #### 🚀 Core Strengths
-<table>
-  <tr>
-    <td width="200"><b>Java Development</b></td>
-    <td width="300"><progress value="90" max="100"></progress></td>
-    <td><code>Advanced</code></td>
-  </tr>
-  <tr>
-    <td><b>Roblox / Luau</b></td>
-    <td><progress value="85" max="100"></progress></td>
-    <td><code>Advanced</code></td>
-  </tr>
-  <tr>
-    <td><b>Backend (PHP)</b></td>
-    <td><progress value="80" max="100"></progress></td>
-    <td><code>Intermediate+</code></td>
-  </tr>
-  <tr>
-    <td><b>Circuits & Arduino</b></td>
-    <td><progress value="80" max="100"></progress></td>
-    <td><code>Intermediate+</code></td>
-  </tr>
-</table>
+* **Java Development** 
+  <img src="https://img.shields.io/badge/Proficiency-88%25-007396?style=flat-square" alt="Java" />
+* **Roblox Game Dev** 
+  <img src="https://img.shields.io/badge/Proficiency-85%25-00A2FF?style=flat-square" alt="Roblox" />
+* **Backend Web (PHP)** 
+  <img src="https://img.shields.io/badge/Proficiency-80%25-777BB4?style=flat-square" alt="PHP" />
+* **Circuits & Arduino** 
+  <img src="https://img.shields.io/badge/Proficiency-80%25-00979D?style=flat-square" alt="Arduino" />
 
-#### 🌱 Work in Progress(Weak Side)
-<table>
-  <tr>
-    <td width="200"><b>JavaScript (Client)</b></td>
-    <td width="300"><progress value="45" max="100"></progress></td>
-    <td><code>Learning</code></td>
-  </tr>
-  <tr>
-    <td><b>Website UI / Design</b></td>
-    <td><progress value="35" max="100"></progress></td>
-    <td><code>Learning</code></td>
-  </tr>
-</table>
+#### 🌱 In Progress / Needs Work
+* **Client-side JS** 
+  <img src="https://img.shields.io/badge/Proficiency-45%25-F7DF1E?style=flat-square&logoColor=black" alt="JS" />
+* **Website UI & Design** 
+  <img src="https://img.shields.io/badge/Proficiency-35%25-lightgrey?style=flat-square" alt="UI" />
 
 <br>
 <a href="https://glzzjhn-byte.github.io/Glzz-Home/">
