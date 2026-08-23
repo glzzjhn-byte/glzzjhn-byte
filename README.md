@@ -2,7 +2,7 @@
   <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
   <br>
   <img src="https://ciel-status-api.vercel.app/api/time?loc=ph" alt="SG Standard Time" />
-  </div>
+</div>
 
 # System.out.println("Hello, I'm John Gabriel!");
 
@@ -24,8 +24,6 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
 <br>
 <i>"All people are nothing but tools..."</i>
 
-</div>
-
 ---
 
 ### 📬 Let's Connect
@@ -38,13 +36,22 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
 <br>
 
 ### 🔭 Current Focus
-- **SCHOOL:** Locked in: finishing projects and prepping for finals.📒📓
+
+- 🎓 **Academics:** I am now a 3rd-year student. Actively balancing intensive schoolwork, expanding my portfolio, and navigating a packed, busy schedule.
   <br>
   <div align="center">
   <img src="https://i.pinimg.com/originals/d4/d4/45/d4d4455a21d671a0cf0d58f0a2e2fe1a.gif" width="400" alt="Studying gif" />
   </div>
   <br>
-- **UNTITLED ANIME BASED GAME** Big project in the works! ⚒️ Working on my first Roblox anime game inspired by Tensura. Stay tuned for the title!
+
+- 🛠️ **Forge IDE:** Developing a custom IDE explicitly tailored for **C++** (Makefile, CMake) and **Python** (VENV).
+  - *Core Features:* Native Git integration (commit, pull, add, share to GitHub), a fully functioning server-client Marketplace, and all standard IDE essentials. 
+  - *Smart Integrations:* Powered by **Clangd** for auto-suggestions and **Ollama AI** for fully local, privacy-first AI auto-completion and chat.
+  - *Collaboration & Sync:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation sync that pushes C++/Python processes directly to my GitHub repo for trackable learning.
+
+- ⚔️ **Game Development:** 
+  - **Untitled Anime Game:** Working on my first major Roblox game inspired by *Tensura*. 
+  - **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
   <br>
   <div align="center">
   <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
@@ -52,7 +59,17 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
   <i>"Early look at the scope of my Tensura-inspired game..."</i>
    </div>
   <br>
-- **Security:** Refining my Roblox anti-cheat plugins (Free & Pro).
+
+- 🧩 **Roblox Plugins & Security:** Refining my anti-cheat plugins (Free & Pro tiers) and currently building **UIBuilder**, a new plugin to streamline UI development in Roblox Studio.
+
+<br>
+
+### 📦 Published Packages & Libraries
+Developing custom tools and frameworks distributed via Maven:
+- **FirstContribution** (`io.github.glzzjhn-byte:FirstContribution:1.2.0`): A utility tool built to automate complex backend processes, handle data encryption, and safely streamline database insertions.
+- **IDEPluginTools** (`io.github.glzzjhn-byte:IDEPluginTools:1.0.0`): The foundational dependency framework designed to safely integrate external plugins into the Forge IDE ecosystem.
+
+<br>
 
 ### 💻 Systems & Application Programming
 <div align="left">
@@ -103,7 +120,6 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
   <br>
   <p><i>"Clearly a man of culture."</i></p>
 </div>
-
 
 ### 📊 GitHub Stats
 <div align="center">
