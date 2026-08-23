@@ -55,14 +55,17 @@ I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** stud
 
 - ⚔️ **Game Development:** 
   - **Untitled Anime Game:** Working on my first major Roblox game inspired by *Tensura*. 
- 
   <br>
   <div align="center">
   <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
+  </div>
+  </div>
   <br>
-  - **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
-    <br>
   <i>"Early look at the scope of my Tensura-inspired game..."</i>
+  <br>
+- **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
+   <div align="center">
+  <img src="https://i.postimg.cc/VkpVGwtc/Screenshot-2026-08-23-173211.png" width="600" alt="ZombieGame" />
    </div>
   <br>
 
