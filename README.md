@@ -145,13 +145,6 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 
 <br>
 
-### 📦 Published Packages & Libraries
-Developing custom tools and frameworks distributed via Maven:
-- **FirstContribution** (`io.github.glzzjhn-byte:FirstContribution:1.2.0`): A utility tool built to automate complex backend processes, handle data encryption, and safely streamline database insertions.
-- **IDEPluginTools** (`io.github.glzzjhn-byte:IDEPluginTools:1.0.0`): The foundational dependency framework designed to safely integrate external plugins into the Forge IDE ecosystem.
-
-<br>
-
 ### 💻 Systems & Application Programming
 <div align="left">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
