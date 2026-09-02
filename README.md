@@ -156,7 +156,7 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 
 <br>
 
-### 🌐 Web Development & Scripting
+ ### 🌐 Web Development & Scripting
 <div align="left">
   <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=Roblox&logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
