@@ -56,6 +56,34 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 ### 📦 Published Packages & Libraries
 
 <!-- MAVEN-START -->
+<details>
+  <summary>📦 <b>FirstContribution</b> (<code>io.github.glzzjhn-byte:FirstContribution:1.2.0</code>)</summary>
+  <br>
+
+  **Maven Implementation:**
+  ```xml
+  <dependency>
+      <groupId>io.github.glzzjhn-byte</groupId>
+      <artifactId>FirstContribution</artifactId>
+      <version>1.2.0</version>
+  </dependency>
+  ```
+</details>
+<br>
+<details>
+  <summary>📦 <b>IDEPluginTools</b> (<code>io.github.glzzjhn-byte:IDEPluginTools:1.2.0</code>)</summary>
+  <br>
+
+  **Maven Implementation:**
+  ```xml
+  <dependency>
+      <groupId>io.github.glzzjhn-byte</groupId>
+      <artifactId>IDEPluginTools</artifactId>
+      <version>1.2.0</version>
+  </dependency>
+  ```
+</details>
+<br>
 <!-- MAVEN-END -->
 
 <br>
