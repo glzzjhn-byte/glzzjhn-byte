@@ -14,7 +14,6 @@ try:
         artifact = doc.get('a')
         version = doc.get('latestVersion')
         
-        # Bulletproof string formatting (no triple quotes)
         markdown_content += (
             "<details>\n"
             f"  <summary>📦 <b>{artifact}</b> (<code>{GROUP_ID}:{artifact}:{version}</code>)</summary>\n"
