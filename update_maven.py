@@ -3,7 +3,6 @@ import xml.etree.ElementTree as ET
 import re
 
 GROUP_ID = "io.github.glzzjhn-byte"
-
 GROUP_PATH = GROUP_ID.replace('.', '/')
 BASE_URL = f"https://repo1.maven.org/maven2/{GROUP_PATH}/"
 
@@ -38,11 +37,25 @@ try:
                     version = release.text
             
             if version:
+                pom_url = f"{BASE_URL}{artifact}/{version}/{artifact}-{version}.pom"
+                description = "A custom utility package by John Gabriel." # Fallback text
+                
+                try:
+                    pom_req = urllib.request.urlopen(pom_url)
+                    pom_xml = pom_req.read().decode('utf-8')
+                    
+                    desc_match = re.search(r'<description>(.*?)</description>', pom_xml, re.DOTALL)
+                    if desc_match:
+                        description = desc_match.group(1).strip()
+                except Exception as e:
+                    print(f"   -> Could not find POM description for {artifact}: {e}")
+
                 print(f" -> Generating XML for {artifact} (v{version})")
                 markdown_content += (
                     "<details>\n"
                     f"  <summary>📦 <b>{artifact}</b> (<code>{GROUP_ID}:{artifact}:{version}</code>)</summary>\n"
                     "  <br>\n\n"
+                    f"  {description}\n\n"
                     "  **Maven Implementation:**\n"
                     "  ```xml\n"
                     "  <dependency>\n"
@@ -70,7 +83,7 @@ try:
         if new_readme != readme:
             with open("README.md", "w") as file:
                 file.write(new_readme)
-            print("Successfully updated README.md with live package data!")
+            print("Successfully updated README.md with descriptions!")
         else:
             print("No changes needed in README.md.")
     else:
