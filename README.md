@@ -1,3 +1,32 @@
+### 💻 System Terminal
+
+<div align="center">
+  <table style="border: 1px solid #30363d; border-radius: 6px; background-color: #0d1117;">
+    <tr>
+      <!-- YOUR FACE (Automatically pulls your GitHub Profile Picture) -->
+      <td align="center" width="220" style="border-right: 1px solid #30363d;">
+        <img src="https://github.com/glzzjhn-byte.png" width="180" style="border-radius: 8px;" alt="John Gabriel" />
+      </td>
+      <!-- THE FASTFETCH OUTPUT -->
+      <td width="400">
+        <!-- Animated typing effect mimicking the command input -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00FF00&width=400&lines=~%24+fastfetch+--logo+face.png" alt="Typing Command" /><br>
+        <code>
+          <b style="color: #00A2FF;">glzzjhn-byte</b>@<b style="color: #00A2FF;">github</b><br>
+          -------------------------<br>
+          <b style="color: #00A2FF;">OS:</b> Computer Engineering (3rd Year)<br>
+          <b style="color: #00A2FF;">Host:</b> Bicol, Philippines<br>
+          <b style="color: #00A2FF;">Kernel:</b> Java, C++, Python<br>
+          <b style="color: #00A2FF;">Uptime:</b> 21 Years<br>
+          <b style="color: #00A2FF;">Shell:</b> Forge IDE<br>
+          <b style="color: #00A2FF;">DE:</b> Roblox Studio<br>
+          <b style="color: #00A2FF;">Status:</b> Coding NexusPOS<br>
+        </code>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 <div align="left">
   <img src="https://ciel-status-api.vercel.app/api/status" alt="System Status" />
   <br>
