@@ -53,6 +53,13 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 
 <br>
 
+### 📦 Published Packages & Libraries
+
+<!-- MAVEN-START -->
+<!-- MAVEN-END -->
+
+<br>
+
 ### 🔭 Current Focus
 
 - 🎓 **Academics:** I am now a 3rd-year student. Actively balancing intensive schoolwork, expanding my portfolio, and navigating a packed, busy schedule.
