@@ -99,6 +99,6 @@ svg_template = (
 
 svg_content = svg_template.replace("__IMG_SRC__", img_src).replace("__GIF_SRC__", gif_src)
 
-with open("terminal.svg", "w") as file:
+with open("animated_cmd.svg", "w") as file:
     file.write(svg_content)
-print("Successfully generated terminal.svg!")
+print("Successfully generated animated_cmd.svg!")
