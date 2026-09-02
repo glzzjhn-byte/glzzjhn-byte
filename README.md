@@ -1,27 +1,6 @@
-### 💻 System Terminal
-
-> **`C:\Windows\System32\cmd.exe`**
-> <br>
-> <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&pause=2000&color=00A2FF&width=400&lines=@glzzjhn-byte>+!profile" alt="Typing Command" />
->
-> <table>
->   <tr>
->     >     <td align="center" width="180">
->       <img src="https://github.com/glzzjhn-byte.png" width="130" style="border-radius: 50%;" alt="John Gabriel Ronao" />
->     </td>
->     >     <td>
->       <code><b>John Gabriel Ronao</b> | System User</code><br>
->       <code>=======================================</code><br>
->       <code><b>Major:</b> Computer Engineering (3rd Year)</code><br>
->       <code><b>Age  :</b> 21 Years</code><br>
->       <code><b>Loc  :</b> Bicol, Philippines</code><br>
->       <code><b>Dev  :</b> Java, C++, Python, Luau</code><br>
->       <code><b>Tasks:</b> Forge IDE, NexusPOS, Roblox Dev</code><br>
->     </td>
->   </tr>
-> </table>
->
-> <code>@glzzjhn-byte> _ </code>
+<div align="center">
+  <img src="terminal.svg" alt="Animated Terminal" />
+</div>
 
 <br>
 <div align="left">
