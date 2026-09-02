@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="terminal.svg" alt="Animated Terminal" />
+  <img src="terminal.svg?v=1" alt="Animated Terminal" />
 </div>
 
 <br>
