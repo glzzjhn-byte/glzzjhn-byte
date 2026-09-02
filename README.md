@@ -60,6 +60,8 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
   <summary>📦 <b>FirstContribution</b> (<code>io.github.glzzjhn-byte:FirstContribution:1.2.0</code>)</summary>
   <br>
 
+  A Java utility for AES encrypted database credentials and Fluent Builder data storage.
+
   **Maven Implementation:**
   ```xml
   <dependency>
@@ -73,6 +75,8 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 <details>
   <summary>📦 <b>IDEPluginTools</b> (<code>io.github.glzzjhn-byte:IDEPluginTools:1.2.0</code>)</summary>
   <br>
+
+  A lightweight plugin API for registering and dispatching UI extensions in custom IDE builds.
 
   **Maven Implementation:**
   ```xml
