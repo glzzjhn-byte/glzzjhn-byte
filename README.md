@@ -1,49 +1,27 @@
 ### 💻 System Terminal
 
-<div align="center">
-  <table style="border-collapse: collapse; border: 1px solid #444; background-color: #0c0c0c; font-family: Consolas, 'Courier New', monospace; text-align: left;">
-    <!-- Mock Windows Title Bar -->
-    <tr style="background-color: #2d2d2d; border-bottom: 1px solid #444;">
-      <td colspan="2" style="padding: 5px 10px; color: #ffffff; font-size: 12px;">
-        C:\Windows\System32\cmd.exe
-      </td>
-    </tr>
-    
-    <!-- Animated typing command -->
-    <tr>
-      <td colspan="2" style="padding: 15px 15px 5px 15px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&pause=2000&color=FFFFFF&width=400&lines=@glzzjhn-byte>+!profile" alt="Typing Command" />
-      </td>
-    </tr>
-    
-    <!-- Profile Output -->
-    <tr>
-      <!-- Circular Profile Picture -->
-      <td align="center" width="160" style="padding: 10px 15px 20px 20px;">
-        <img src="https://github.com/glzzjhn-byte.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #555555;" alt="John Gabriel Ronao" />
-      </td>
-      
-      <!-- CMD Profile Stats -->
-      <td style="padding: 10px 20px 20px 0; color: #cccccc; line-height: 1.5; font-size: 14px;">
-        <b style="color: #ffffff; font-size: 16px;">John Gabriel Ronao</b><br>
-        <span style="color: #888888;">System User</span><br>
-        ========================================<br>
-        <b style="color: #ffffff;">Major:</b> Computer Engineering (3rd Year)<br>
-        <b style="color: #ffffff;">Age  :</b> 21 Years<br>
-        <b style="color: #ffffff;">Loc  :</b> Bicol, Philippines<br>
-        <b style="color: #ffffff;">Dev  :</b> Java, C++, Python, Luau<br>
-        <b style="color: #ffffff;">Tasks:</b> Forge IDE, NexusPOS, Roblox Dev<br>
-      </td>
-    </tr>
-    
-    <!-- Bottom Blinking Cursor -->
-    <tr>
-      <td colspan="2" style="padding: 0 15px 15px 15px; color: #ffffff; font-size: 15px;">
-        @glzzjhn-byte> _
-      </td>
-    </tr>
-  </table>
-</div>
+> **`C:\Windows\System32\cmd.exe`**
+> <br>
+> <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&pause=2000&color=00A2FF&width=400&lines=@glzzjhn-byte>+!profile" alt="Typing Command" />
+>
+> <table>
+>   <tr>
+>     >     <td align="center" width="180">
+>       <img src="https://github.com/glzzjhn-byte.png" width="130" style="border-radius: 50%;" alt="John Gabriel Ronao" />
+>     </td>
+>     >     <td>
+>       <code><b>John Gabriel Ronao</b> | System User</code><br>
+>       <code>=======================================</code><br>
+>       <code><b>Major:</b> Computer Engineering (3rd Year)</code><br>
+>       <code><b>Age  :</b> 21 Years</code><br>
+>       <code><b>Loc  :</b> Bicol, Philippines</code><br>
+>       <code><b>Dev  :</b> Java, C++, Python, Luau</code><br>
+>       <code><b>Tasks:</b> Forge IDE, NexusPOS, Roblox Dev</code><br>
+>     </td>
+>   </tr>
+> </table>
+>
+> <code>@glzzjhn-byte> _ </code>
 
 <br>
 <div align="left">
