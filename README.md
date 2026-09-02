@@ -1,33 +1,52 @@
-### 💻 System Terminal
-
 <div align="center">
-  <table style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-    <tr>
-      <!-- YOUR FACE: Circular crop with retro styling -->
-      <td align="center" width="220" style="border-right: 1px solid #30363d; padding: 20px;">
-        <img src="https://github.com/glzzjhn-byte.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #00FF00; image-rendering: pixelated;" alt="John Gabriel" />
-      </td>
-      <!-- THE FASTFETCH OUTPUT -->
-      <td width="420" style="padding: 20px; line-height: 1.4;">
-        <!-- Animated typing effect mimicking the command input -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00FF00&width=400&lines=~%24+fastfetch+--logo+face.png" alt="Typing Command" /><br>
-        <code>
-          <b style="color: #00FF00;">glzzjhn-byte</b>@<b style="color: #00FF00;">github</b><br>
-          -------------------------<br>
-          <b style="color: #00A2FF;">OS:</b> Computer Engineering (3rd Year)<br>
-          <b style="color: #00A2FF;">Host:</b> Bicol, Philippines<br>
-          <b style="color: #00A2FF;">Kernel:</b> Java, C++, Python<br>
-          <b style="color: #00A2FF;">Uptime:</b> 21 Years<br>
-          <b style="color: #00A2FF;">Shell:</b> Forge IDE<br>
-          <b style="color: #00A2FF;">DE:</b> Roblox Studio<br>
-          <b style="color: #00A2FF;">Status:</b> Coding NexusPOS<br>
-          <br>
-          <!-- Classic Fastfetch Color Blocks -->
-          <span style="color: #30363d;">███</span><span style="color: #D14836;">███</span><span style="color: #00FF00;">███</span><span style="color: #F7DF1E;">███</span><span style="color: #00A2FF;">███</span><span style="color: #563D7C;">███</span>
-        </code>
-      </td>
-    </tr>
-  </table>
+
+<table style="border-collapse:collapse; border:1px solid #30363d; border-radius:10px; background-color:#0d1117; overflow:hidden; width:620px;">
+
+  <!-- Terminal title bar -->
+  <tr>
+    <td style="background-color:#161b22; padding:10px 16px; border-bottom:1px solid #30363d;">
+      <span style="height:12px;width:12px;background:#ff5f56;border-radius:50%;display:inline-block;margin-right:6px;"></span><span style="height:12px;width:12px;background:#ffbd2e;border-radius:50%;display:inline-block;margin-right:6px;"></span><span style="height:12px;width:12px;background:#27c93f;border-radius:50%;display:inline-block;margin-right:14px;"></span><code style="color:#8b949e; font-size:12px;">bash — 80x24</code>
+      <img src="https://github.com/glzzjhn-byte.png" width="22" height="22" style="border-radius:50%; border:1px solid #30363d; float:right; vertical-align:middle;" alt="avatar" />
+    </td>
+  </tr>
+
+  <!-- Body: logo + fastfetch output -->
+  <tr>
+    <td style="padding:0;">
+      <table style="width:100%; border-collapse:collapse;">
+        <tr>
+          <td width="150" align="center" style="padding:24px;">
+            <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="110" alt="Ubuntu Logo" />
+          </td>
+          <td style="padding:24px 20px 24px 0; font-family:'Fira Code', monospace; line-height:1.6; text-align:left;">
+            <code>
+              <img src="https://github.com/glzzjhn-byte.png" width="18" height="18" style="border-radius:50%; vertical-align:middle; margin-right:6px;" /><b style="color:#00FF00;">glzzjhn-byte</b>@<b style="color:#00FF00;">ubuntu</b><br>
+              <span style="color:#30363d;">-------------------------</span><br>
+              <b style="color:#E95420;">OS:</b> <span style="color:#c9d1d9;">Computer Engineering (3rd Year)</span><br>
+              <b style="color:#E95420;">Host:</b> <span style="color:#c9d1d9;">Bicol, Philippines</span><br>
+              <b style="color:#E95420;">Kernel:</b> <span style="color:#c9d1d9;">Java, C++, Python</span><br>
+              <b style="color:#E95420;">Uptime:</b> <span style="color:#c9d1d9;">21 years</span><br>
+              <b style="color:#E95420;">Shell:</b> <span style="color:#c9d1d9;">Forge IDE</span><br>
+              <b style="color:#E95420;">DE:</b> <span style="color:#c9d1d9;">Roblox Studio</span><br>
+              <b style="color:#E95420;">Status:</b> <span style="color:#c9d1d9;">Coding NexusPOS</span><br>
+              <br>
+              <span style="color:#30363d;">███</span><span style="color:#D14836;">███</span><span style="color:#00FF00;">███</span><span style="color:#F7DF1E;">███</span><span style="color:#00A2FF;">███</span><span style="color:#563D7C;">███</span>
+            </code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Typing prompt footer, like a live cursor -->
+  <tr>
+    <td style="padding:10px 16px; border-top:1px solid #30363d;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00FF00&background=0D111700&center=false&width=560&lines=glzzjhn-byte%40ubuntu%3A~%24+_" alt="cursor" />
+    </td>
+  </tr>
+
+</table>
+
 </div>
 
 <br>
