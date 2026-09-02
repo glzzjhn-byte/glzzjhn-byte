@@ -53,7 +53,7 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 
 <br>
 
-### 📦 Published Packages & Libraries
+### 📦 MAVEN CENTRAL LIBRARIES
 
 <!-- MAVEN-START -->
 <details>
