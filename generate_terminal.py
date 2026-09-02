@@ -7,7 +7,11 @@ with urllib.request.urlopen(req1) as response:
     b64_img1 = base64.b64encode(response.read()).decode('utf-8')
     img_src = f"data:image/png;base64,{b64_img1}"
 
-gif_src = "https://i.makeagif.com/media/3-14-2024/o9Frsc.gif"
+url2 = "https://i.makeagif.com/media/3-14-2024/o9Frsc.gif"
+req2 = urllib.request.Request(url2, headers={'User-Agent': 'Mozilla/5.0'})
+with urllib.request.urlopen(req2) as response:
+    b64_img2 = base64.b64encode(response.read()).decode('utf-8')
+    gif_src = f"data:image/gif;base64,{b64_img2}"
 
 svg_template = (
     "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"650\" height=\"600\" viewBox=\"0 0 650 600\">\n"
@@ -26,6 +30,7 @@ svg_template = (
     "      .cursor-wait { opacity: 0; animation: appear 0.1s forwards 1.5s, blink 1s step-end 2.5, hideCursor 0.1s forwards 4s; }\n"
     "\n"
     "      /* Timeline 2: !LoveLife (4s to 8s) */\n"
+    "      .text-appear-2 { opacity: 0; animation: appear 0.1s forwards 4s; }\n"
     "      .reveal-mask-2 { opacity: 0; animation: appear 0.1s forwards 4s, reveal 1s steps(9, end) forwards 4s; }\n"
     "      .cursor-move-2 { opacity: 0; animation: appear 0.1s forwards 4s, moveCursor 1s steps(9, end) forwards 4s, hideCursor 0.1s forwards 5.5s; }\n"
     "      .compile-text { opacity: 0; animation: appear 0.1s forwards 5.5s; }\n"
@@ -78,7 +83,7 @@ svg_template = (
     "  </g>\n"
     "\n"
     "  <!-- SEQUENCE 2: !LoveLife -->\n"
-    "  <text x=\"155\" y=\"300\" class=\"cmd-text reveal-mask-2\"><tspan fill=\"#00A2FF\">!LoveLife</tspan></text>\n"
+    "  <text x=\"155\" y=\"300\" class=\"cmd-text text-appear-2\"><tspan fill=\"#00A2FF\">!LoveLife</tspan></text>\n"
     "  <rect x=\"155\" y=\"285\" width=\"100\" height=\"20\" fill=\"#0c0c0c\" class=\"reveal-mask-2\" />\n"
     "  <text x=\"155\" y=\"300\" class=\"cmd-text cursor-move-2\">_</text>\n"
     "\n"
@@ -87,7 +92,7 @@ svg_template = (
     "  <text x=\"15\" y=\"355\" fill=\"#f44336\" font-weight=\"bold\" class=\"error-text\">[FATAL ERROR] 0x404: Partner not found.</text>\n"
     "  <text x=\"15\" y=\"375\" fill=\"#f44336\" class=\"error-text\">> Initiating emergency anime fallback...</text>\n"
     "\n"
-    "  <!-- SEQUENCE 3: GIF Appears on a New Line (No Circle Frame) -->\n"
+    "  <!-- SEQUENCE 3: GIF Appears on a New Line -->\n"
     "  <g class=\"gif-pic\">\n"
     "    <image href=\"__GIF_SRC__\" x=\"15\" y=\"390\" width=\"300\" height=\"170\" preserveAspectRatio=\"xMinYMin meet\" />\n"
     "  </g>\n"
@@ -99,6 +104,6 @@ svg_template = (
 
 svg_content = svg_template.replace("__IMG_SRC__", img_src).replace("__GIF_SRC__", gif_src)
 
-with open("animated_cmd.svg", "w") as file:
+with open("system_terminal_v2.svg", "w") as file:
     file.write(svg_content)
-print("Successfully generated animated_cmd.svg!")
+print("Successfully generated system_terminal_v2.svg!")
