@@ -13,15 +13,6 @@
 
 Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
-### My GitHub Achievements 🏆
-
-<a href="https://github.com/glzzjhn-byte?tab=achievements&achievement=yolo">
-  <img src="https://github.githubassets.com/assets/yolo-default-13bf5e72d2fb.png" width="120" alt="YOLO">
-</a>
-<a href="https://github.com/glzzjhn-byte?tab=achievements&achievement=quickdraw">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec83cdd.png" width="120" alt="Quickdraw">
-</a>
-
 ### 📊 Skill Proficiency
 
 #### 🚀 Core Strengths
