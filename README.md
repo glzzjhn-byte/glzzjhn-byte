@@ -15,8 +15,8 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 
 ### My GitHub Achievements 🏆
 
-<img src="PASTE_YOLO_LINK_HERE" width="120" alt="YOLO">
-<img src="PASTE_QUICKDRAW_LINK_HERE" width="120" alt="Quickdraw">
+<img src="https://github.com/glzzjhn-byte?tab=achievements&achievement=yolo" width="120" alt="YOLO">
+<img src="https://github.com/glzzjhn-byte?tab=achievements&achievement=quickdraw" width="120" alt="Quickdraw">
 
 ### 📊 Skill Proficiency
 
