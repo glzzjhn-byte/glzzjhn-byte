@@ -38,10 +38,12 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 <br><br>
 
 ### 🏆 Certifications
-<div align="left">
+<div align="center">
   <a href="https://www.hackerrank.com/certificates/85f403ee8dc4">
-    <img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+    <img src="https://i.postimg.cc/3wYmW8Pq/Screenshot-2026-09-06-110231.png" width="700" style="border-radius: 8px; border: 1px solid #333;" alt="HackerRank Certificate" />
   </a>
+  <br>
+  <i>HackerRank Certified</i>
 </div>
 <br><br>
 
