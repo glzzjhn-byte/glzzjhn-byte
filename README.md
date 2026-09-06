@@ -37,6 +37,14 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 </a>
 <br><br>
 
+### 🏆 Certifications
+<div align="left">
+  <a href="https://www.hackerrank.com/certificates/85f403ee8dc4">
+    <img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate" />
+  </a>
+</div>
+<br><br>
+
 <img src="https://i.pinimg.com/originals/37/a3/22/37a322b48e9b7e1c5c9215faf0ebdcd8.gif" width="250" alt="Milim Nava"/>
 <br>
 <i>"Wahahaha! I am Demon Lord Milim Nava, the Destroyer!"</i>
