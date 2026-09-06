@@ -11,7 +11,7 @@
 
 # Optional.ofNullable(System.getenv("USER")).orElse("John Gabriel");
 
-Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
+Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Engineering** student (`University Of Santo Tomas - Legazpi`) passionate about building systems, developing games, creating full-stack websites, and tinkering with hardware like circuits and Arduino boards.
 
 ### 📊 Skill Proficiency
 
