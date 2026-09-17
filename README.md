@@ -126,9 +126,15 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
 - 🛠️ **Forge IDE:** Developing a custom IDE explicitly tailored for **C++** (Makefile, CMake) and **Python** (VENV).
   - *Core Features:* Native Git integration (commit, pull, add, share to GitHub), a fully functioning server-client Marketplace, and all standard IDE essentials. 
   - *Smart Integrations:* Powered by **Clangd** for auto-suggestions and **Ollama AI** for fully local, privacy-first AI auto-completion and chat.
-  - *Collaboration & Learning Engine:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation tutor. It provides built-in C++ and Python syntax tutorials and explanations for         the user, pushing your learning milestones directly to GitHub for trackable development.  <br>
+  - *Collaboration & Learning Engine:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation tutor. It provides built-in C++ and Python syntax tutorials and explanations for the user, pushing your learning milestones directly to GitHub for trackable development.  
+  <br>
   <div align="center">
-  <img src="https://i.postimg.cc/cHp1022p/Screenshot-2026-08-23-172728.png" width="600" alt="ForgeIDE" />
+    <img src="https://i.postimg.cc/cHp1022p/Screenshot-2026-08-23-172728.png" width="600" alt="ForgeIDE" />
+    <br><br>
+    <a href="https://github.com/glzzjhn-byte/ForgeIDE-Main">
+      <img src="https://img.shields.io/badge/🚀_Test_Forge_IDE_Now-FF6FA0?style=for-the-badge" alt="Test Forge IDE" />
+    </a>
+  </div>
   <br>
 
 - ⚔️ **Game Development:** 
@@ -136,7 +142,6 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), a 3rd-year **Computer Eng
   <br>
   <div align="center">
   <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
-  </div>
   </div>
   <br>
   <i>"Early look at the scope of my Tensura-inspired game..."</i>
