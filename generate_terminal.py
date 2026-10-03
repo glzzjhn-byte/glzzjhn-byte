@@ -8,7 +8,9 @@ with urllib.request.urlopen(req1) as response:
   img_src = f"data:image/png;base64,{b64_img1}"
 
 url_logo = "https://i.postimg.cc/kXLj3Gjq/logo.png"
-req_logo = urllib.request.Request(url_logo, headers={"User-Agent": "Mozilla/5.0"})
+req_logo = urllib.request.Request(
+    url_logo, headers={"User-Agent": "Mozilla/5.0"}
+)
 with urllib.request.urlopen(req_logo) as response:
   b64_logo = base64.b64encode(response.read()).decode("utf-8")
   logo_src = f"data:image/png;base64,{b64_logo}"
@@ -74,8 +76,8 @@ svg_template = (
     " translateY(15px); } to { opacity: 1; transform: translateY(0); } }\n"
     "      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }\n"
     "    </style>\n"
-    '\n'
-    '    <!-- Circular Clips for Profile and Studio Logo -->\n'
+    "\n"
+    "    <!-- Circular Clips for Profile and Studio Logo -->\n"
     '    <clipPath id="user-clip">\n'
     '      <circle cx="55" cy="145" r="40" />\n'
     "    </clipPath>\n"
@@ -101,16 +103,16 @@ svg_template = (
     ' class="reveal-mask" />\n'
     '  <text x="150" y="60" class="cmd-text cursor-move">_</text>\n'
     "\n"
-    '  <!-- Output Profile Block -->\n'
+    "  <!-- Output Profile Block -->\n"
     '  <g class="output">\n'
     '    <text x="115" y="110" fill="#fff" font-weight="bold"'
     ' font-size="16">John Gabriel Ronao</text>\n'
     '    <text x="115" y="128" class="gold">Founder &amp; Lead Architect'
-    ' @ GlzzLexi Studios</text>\n'
+    " @ GlzzLexi Studios</text>\n"
     '    <text x="115" y="145"'
     ' class="dim">====================================================</text>\n'
     '    <text x="115" y="165"><tspan fill="#fff"'
-    " font-weight=\"bold\">Major:</tspan> Computer Engineering (3rd"
+    ' font-weight="bold">Major:</tspan> Computer Engineering (3rd'
     " Year)</text>\n"
     '    <text x="115" y="185"><tspan fill="#fff"'
     ' font-weight="bold">Studio:</tspan> GlzzLexi (<tspan fill="#00A2FF">Roblox'
@@ -129,7 +131,7 @@ svg_template = (
     "\n"
     "  <!-- Side Avatar & Studio Badges -->\n"
     '  <g class="avatars">\n'
-    '    <!-- User Avatar -->\n'
+    "    <!-- User Avatar -->\n"
     '    <circle cx="55" cy="145" r="42" fill="#00A2FF" opacity="0.6" />\n'
     '    <image href="__IMG_SRC__" x="15" y="105" height="80" width="80"'
     ' clip-path="url(#user-clip)" />\n'
@@ -177,9 +179,9 @@ svg_content = (
     .replace("__GIF_SRC__", gif_src)
 )
 
-with open("system_terminal_v2.svg", "w", encoding="utf-8") as file:
+with open("system_terminal_v3.svg", "w", encoding="utf-8") as file:
   file.write(svg_content)
 
 print(
-    "Successfully generated updated system_terminal_v2.svg with GlzzLexi Logo!"
+    "Successfully generated updated system_terminal_v3.svg with GlzzLexi Logo!"
 )
