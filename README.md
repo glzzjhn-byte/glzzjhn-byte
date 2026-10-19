@@ -16,19 +16,19 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 ### 📊 Skill Proficiency
 
 #### 🚀 Core Strengths
-* **Java Development** 
+- **Java Development** 
   <img src="https://img.shields.io/badge/Proficiency-88%25-007396?style=flat-square" alt="Java" />
-* **Roblox Game Dev** 
+- **Roblox Game Dev** 
   <img src="https://img.shields.io/badge/Proficiency-85%25-00A2FF?style=flat-square" alt="Roblox" />
-* **Backend Web (PHP)** 
+- **Backend Web (PHP)** 
   <img src="https://img.shields.io/badge/Proficiency-80%25-777BB4?style=flat-square" alt="PHP" />
-* **Circuits & Arduino** 
+- **Circuits & Arduino** 
   <img src="https://img.shields.io/badge/Proficiency-80%25-00979D?style=flat-square" alt="Arduino" />
 
 #### 🌱 In Progress / Needs Work
-* **Client-side JS** 
+- **Client-side JS** 
   <img src="https://img.shields.io/badge/Proficiency-45%25-F7DF1E?style=flat-square&logoColor=black" alt="JS" />
-* **Website UI & Design** 
+- **Website UI & Design** 
   <img src="https://img.shields.io/badge/Proficiency-35%25-lightgrey?style=flat-square" alt="UI" />
 
 <br>
@@ -81,33 +81,25 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 <details>
   <summary>📦 <b>FirstContribution</b> (<code>io.github.glzzjhn-byte:FirstContribution:1.2.0</code>)</summary>
   <br>
-
-  A Java utility for AES encrypted database credentials and Fluent Builder data storage.
-
-  **Maven Implementation:**
-  ```xml
-  <dependency>
-      <groupId>io.github.glzzjhn-byte</groupId>
-      <artifactId>FirstContribution</artifactId>
-      <version>1.2.0</version>
-  </dependency>
-  ```
+  <p>A Java utility for AES encrypted database credentials and Fluent Builder data storage.</p>
+  <p><b>Maven Implementation:</b></p>
+  <pre><code class="language-xml">&lt;dependency&gt;
+    &lt;groupId&gt;io.github.glzzjhn-byte&lt;/groupId&gt;
+    &lt;artifactId&gt;FirstContribution&lt;/artifactId&gt;
+    &lt;version&gt;1.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
 </details>
 <br>
 <details>
   <summary>📦 <b>IDEPluginTools</b> (<code>io.github.glzzjhn-byte:IDEPluginTools:1.2.0</code>)</summary>
   <br>
-
-  A lightweight plugin API for registering and dispatching UI extensions in custom IDE builds.
-
-  **Maven Implementation:**
-  ```xml
-  <dependency>
-      <groupId>io.github.glzzjhn-byte</groupId>
-      <artifactId>IDEPluginTools</artifactId>
-      <version>1.2.0</version>
-  </dependency>
-  ```
+  <p>A lightweight plugin API for registering and dispatching UI extensions in custom IDE builds.</p>
+  <p><b>Maven Implementation:</b></p>
+  <pre><code class="language-xml">&lt;dependency&gt;
+    &lt;groupId&gt;io.github.glzzjhn-byte&lt;/groupId&gt;
+    &lt;artifactId&gt;IDEPluginTools&lt;/artifactId&gt;
+    &lt;version&gt;1.2.0&lt;/version&gt;
+&lt;/dependency&gt;</code></pre>
 </details>
 <br>
 <!-- MAVEN-END -->
@@ -117,44 +109,35 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 ### 🔭 Current Focus
 
 - 🎓 **Academics:** I am now a 3rd-year student. Actively balancing intensive schoolwork, expanding my portfolio, and navigating a packed, busy schedule.
-  <br>
-  <div align="center">
-  <img src="https://i.pinimg.com/originals/d4/d4/45/d4d4455a21d671a0cf0d58f0a2e2fe1a.gif" width="400" alt="Studying gif" />
-  </div>
-  <br>
+  <br><br>
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/d4/d4/45/d4d4455a21d671a0cf0d58f0a2e2fe1a.gif" width="400" alt="Studying gif" />
+  </p>
 
 - 🛠️ **Forge IDE:** Developing a custom IDE explicitly tailored for **C++** (Makefile, CMake) and **Python** (VENV).
-  - *Core Features:* Native Git integration (commit, pull, add, share to GitHub), a fully functioning server-client Marketplace, and all standard IDE essentials. 
+  - *Core Features:* Native Git integration (commit, pull, add, share to GitHub), a fully functioning server-client Marketplace, and all standard IDE essentials.
   - *Smart Integrations:* Powered by **Clangd** for auto-suggestions and **Ollama AI** for fully local, privacy-first AI auto-completion and chat.
-  - *Collaboration & Learning Engine:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation tutor. It provides built-in C++ and Python syntax tutorials and explanations for the user, pushing your learning milestones directly to GitHub for trackable development.  
-  <br>
-  <div align="center">
+  - *Collaboration & Learning Engine:* Built a shared workspace engine (completed, pending live deployment) and an automated documentation tutor. It provides built-in C++ and Python syntax tutorials and explanations for the user, pushing your learning milestones directly to GitHub for trackable development.
+  <br><br>
+  <p align="center">
     <img src="https://i.postimg.cc/cHp1022p/Screenshot-2026-08-23-172728.png" width="600" alt="ForgeIDE" />
     <br><br>
     <a href="https://github.com/glzzjhn-byte/ForgeIDE-Main">
       <img src="https://img.shields.io/badge/🚀_Test_Forge_IDE_Now-FF6FA0?style=for-the-badge" alt="Test Forge IDE" />
     </a>
-  </div>
-  <br>
+  </p>
 
-- ⚔️ **Game Development:** 
-  - **Untitled Anime Game:** Working on my first major Roblox game inspired by *Tensura*. 
-  <br>
-  <div align="center">
-  <img src="https://i.postimg.cc/FHDJ9Hxn/Screenshot-2026-05-09-191744.png" width="600" alt="Untitled Anime Game Scope" />
-  </div>
-  <br>
-  <i>"Early look at the scope of my Tensura-inspired game..."</i>
-  <br>
-- **Zombie Survival Game:** In the process of developing a new van-based/road-trip style zombie survival game.
-   <div align="center">
-  <img src="https://i.postimg.cc/VkpVGwtc/Screenshot-2026-08-23-173211.png" width="600" alt="ZombieGame" />
-   </div>
-  <br>
+- ⚔️ **Game Development:** All Roblox game development, live titles, and upcoming game concepts are hosted under my official studio organization, **[GlzzLexi Studios](https://github.com/GlzzLexi)**.
+  <br><br>
+  <p align="center">
+    <a href="https://github.com/GlzzLexi">
+      <img src="https://img.shields.io/badge/🎮_View_All_Roblox_Games-GlzzLexi_Studios-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="GlzzLexi Studios" />
+    </a>
+  </p>
 
 - 🧩 **Roblox Plugins & Security:** Refining my custom anti-cheat plugins (Free & Pro tiers) and currently building **UIBuilder**, a new plugin designed to streamline UI development in Roblox Studio.
   <br><br>
-  <div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/Total_Installs-69%2B-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Installs" />
     <img src="https://img.shields.io/badge/Rating-Unranked-lightgrey?style=for-the-badge" alt="Rating" />
     <img src="https://img.shields.io/badge/Status-Active_Maintenance-success?style=for-the-badge" alt="Status" />
@@ -162,23 +145,22 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
     <img src="https://i.postimg.cc/N09JhncD/Screenshot-2026-08-23-185005.png" width="700" style="border-radius: 8px;" alt="Roblox plugin Analytics" />
     <br>
     <i>Real-world impact: Developer adoption and active retention metrics from the Creator Hub.</i>
-  </div>
-  
+  </p>
 
 <br>
 
 ### 💻 Systems & Application Programming
 <div align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
 </div>
 
 <br>
 
- ### 🌐 Web Development & Scripting
+### 🌐 Web Development & Scripting
 <div align="left">
   <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=Roblox&logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
@@ -190,7 +172,7 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 
 <br>
 
- ### 🗄️ Databases & Tools
+### 🗄️ Databases & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -235,7 +217,6 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
   </a>
 </div>
 
-
 <br>
 
 ### 📑 WakaTime
@@ -247,13 +228,11 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 </div>
 
 <div align="center">
-
-<sub>
-  Developed and maintained by <b>John Gabriel Ronao</b> (<code>@glzzjhn-byte</code>) • 
-  <a href="https://glzzjhn-byte.github.io/Glzz-Home/">Portfolio</a> • 
-  <a href="mailto:glzzjhn@gmail.com">Contact</a>
-</sub>
-
+  <sub>
+    Developed and maintained by <b>John Gabriel Ronao</b> (<code>@glzzjhn-byte</code>) • 
+    <a href="https://glzzjhn-byte.github.io/Glzz-Home/">Portfolio</a> • 
+    <a href="mailto:glzzjhn@gmail.com">Contact</a>
+  </sub>
 </div>
 
 <meta name="author" content="John Gabriel Ronao" />
