@@ -81,25 +81,33 @@ Hi there! 👋 I'm **John Gabriel** (`@glzzjhn-byte`), founder of **[GlzzLexi St
 <details>
   <summary>📦 <b>FirstContribution</b> (<code>io.github.glzzjhn-byte:FirstContribution:1.2.0</code>)</summary>
   <br>
-  <p>A Java utility for AES encrypted database credentials and Fluent Builder data storage.</p>
-  <p><b>Maven Implementation:</b></p>
-  <pre><code class="language-xml">&lt;dependency&gt;
-    &lt;groupId&gt;io.github.glzzjhn-byte&lt;/groupId&gt;
-    &lt;artifactId&gt;FirstContribution&lt;/artifactId&gt;
-    &lt;version&gt;1.2.0&lt;/version&gt;
-&lt;/dependency&gt;</code></pre>
+
+  A Java utility for AES encrypted database credentials and Fluent Builder data storage.
+
+  **Maven Implementation:**
+  ```xml
+  <dependency>
+      <groupId>io.github.glzzjhn-byte</groupId>
+      <artifactId>FirstContribution</artifactId>
+      <version>1.2.0</version>
+  </dependency>
+  ```
 </details>
 <br>
 <details>
   <summary>📦 <b>IDEPluginTools</b> (<code>io.github.glzzjhn-byte:IDEPluginTools:1.2.0</code>)</summary>
   <br>
-  <p>A lightweight plugin API for registering and dispatching UI extensions in custom IDE builds.</p>
-  <p><b>Maven Implementation:</b></p>
-  <pre><code class="language-xml">&lt;dependency&gt;
-    &lt;groupId&gt;io.github.glzzjhn-byte&lt;/groupId&gt;
-    &lt;artifactId&gt;IDEPluginTools&lt;/artifactId&gt;
-    &lt;version&gt;1.2.0&lt;/version&gt;
-&lt;/dependency&gt;</code></pre>
+
+  A lightweight plugin API for registering and dispatching UI extensions in custom IDE builds.
+
+  **Maven Implementation:**
+  ```xml
+  <dependency>
+      <groupId>io.github.glzzjhn-byte</groupId>
+      <artifactId>IDEPluginTools</artifactId>
+      <version>1.2.0</version>
+  </dependency>
+  ```
 </details>
 <br>
 <!-- MAVEN-END -->
